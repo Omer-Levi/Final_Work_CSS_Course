@@ -1,0 +1,930 @@
+{
+  "Course": {
+    "Name": "Web 2024A",
+    "Path": "C:\\Users\\omerl\\Desktop\\לימודים\\מדעי המחשב\\שנה ג\\סדנת תוכנה בשפת C# וסביבת NET\\Web 2024A.csv",
+    "StudentsList": [
+      {
+        "FirstName": "Abbi",
+        "LastName": "Rodwell",
+        "Id": "8237463",
+        "Year": "2",
+        "Grade": [
+          72,
+          100,
+          100,
+          84
+        ],
+        "Average": 87.6
+      },
+      {
+        "FirstName": "Alanah",
+        "LastName": "Salvin",
+        "Id": "74418806",
+        "Year": "2",
+        "Grade": [
+          80,
+          100,
+          96,
+          100
+        ],
+        "Average": 97.2
+      },
+      {
+        "FirstName": "Allan",
+        "LastName": "Gilbart",
+        "Id": "53911714",
+        "Year": "1",
+        "Grade": [
+          99,
+          100,
+          100,
+          98
+        ],
+        "Average": 98.69999999999999
+      },
+      {
+        "FirstName": "Andriana",
+        "LastName": "Guttridge",
+        "Id": "13169688",
+        "Year": "3",
+        "Grade": [
+          66,
+          100,
+          100,
+          95
+        ],
+        "Average": 93.6
+      },
+      {
+        "FirstName": "Aprilette",
+        "LastName": "Osment",
+        "Id": "95108731",
+        "Year": "1",
+        "Grade": [
+          86,
+          100,
+          99,
+          77
+        ],
+        "Average": 84.6
+      },
+      {
+        "FirstName": "Avrom",
+        "LastName": "Jon",
+        "Id": "39884481",
+        "Year": "3",
+        "Grade": [
+          90,
+          97,
+          100,
+          85
+        ],
+        "Average": 89.7
+      },
+      {
+        "FirstName": "Barth",
+        "LastName": "Ville",
+        "Id": "77322012",
+        "Year": "2",
+        "Grade": [
+          72,
+          100,
+          99,
+          70
+        ],
+        "Average": 79.0
+      },
+      {
+        "FirstName": "Bartlet",
+        "LastName": "Oldroyde",
+        "Id": "99661187",
+        "Year": "1",
+        "Grade": [
+          66,
+          100,
+          100,
+          100
+        ],
+        "Average": 96.6
+      },
+      {
+        "FirstName": "Bertine",
+        "LastName": "Veeler",
+        "Id": "20016673",
+        "Year": "4",
+        "Grade": [
+          62,
+          100,
+          96,
+          81
+        ],
+        "Average": 84.0
+      },
+      {
+        "FirstName": "Broderic",
+        "LastName": "Lakeland",
+        "Id": "30602387",
+        "Year": "2",
+        "Grade": [
+          70,
+          99,
+          100,
+          80
+        ],
+        "Average": 84.9
+      },
+      {
+        "FirstName": "Camala",
+        "LastName": "Andrichak",
+        "Id": "91976145",
+        "Year": "1",
+        "Grade": [
+          67,
+          98,
+          100,
+          100
+        ],
+        "Average": 96.5
+      },
+      {
+        "FirstName": "Ches",
+        "LastName": "Loki",
+        "Id": "33899467",
+        "Year": "4",
+        "Grade": [
+          61,
+          96,
+          100,
+          86
+        ],
+        "Average": 87.30000000000001
+      },
+      {
+        "FirstName": "Cirstoforo",
+        "LastName": "Farfoot",
+        "Id": "75386068",
+        "Year": "2",
+        "Grade": [
+          92,
+          98,
+          95,
+          87
+        ],
+        "Average": 90.19999999999999
+      },
+      {
+        "FirstName": "Clayson",
+        "LastName": "Welman",
+        "Id": "12356961",
+        "Year": "1",
+        "Grade": [
+          100,
+          100,
+          100,
+          87
+        ],
+        "Average": 92.19999999999999
+      },
+      {
+        "FirstName": "Cross",
+        "LastName": "Kenn",
+        "Id": "33184025",
+        "Year": "4",
+        "Grade": [
+          75,
+          100,
+          97,
+          93
+        ],
+        "Average": 92.7
+      },
+      {
+        "FirstName": "Dacia",
+        "LastName": "Sudworth",
+        "Id": "38284119",
+        "Year": "4",
+        "Grade": [
+          84,
+          96,
+          95,
+          86
+        ],
+        "Average": 88.6
+      },
+      {
+        "FirstName": "Deirdre",
+        "LastName": "Crosser",
+        "Id": "19237664",
+        "Year": "3",
+        "Grade": [
+          63,
+          95,
+          99,
+          100
+        ],
+        "Average": 95.6
+      },
+      {
+        "FirstName": "Enos",
+        "LastName": "Dagger",
+        "Id": "57603772",
+        "Year": "4",
+        "Grade": [
+          62,
+          100,
+          100,
+          100
+        ],
+        "Average": 96.2
+      },
+      {
+        "FirstName": "Fancy",
+        "LastName": "Sarfass",
+        "Id": "55231066",
+        "Year": "2",
+        "Grade": [
+          92,
+          97,
+          97,
+          100
+        ],
+        "Average": 98.30000000000001
+      },
+      {
+        "FirstName": "Fielding",
+        "LastName": "Leathers",
+        "Id": "49848323",
+        "Year": "3",
+        "Grade": [
+          81,
+          100,
+          100,
+          100
+        ],
+        "Average": 98.1
+      },
+      {
+        "FirstName": "Frances",
+        "LastName": "Gregorin",
+        "Id": "8238071",
+        "Year": "1",
+        "Grade": [
+          90,
+          92,
+          100,
+          84
+        ],
+        "Average": 88.6
+      },
+      {
+        "FirstName": "Freddi",
+        "LastName": "Filochov",
+        "Id": "12962761",
+        "Year": "4",
+        "Grade": [
+          63,
+          98,
+          100,
+          100
+        ],
+        "Average": 96.1
+      },
+      {
+        "FirstName": "Garold",
+        "LastName": "Hefferon",
+        "Id": "37601709",
+        "Year": "1",
+        "Grade": [
+          89,
+          100,
+          100,
+          100
+        ],
+        "Average": 98.9
+      },
+      {
+        "FirstName": "Georgianna",
+        "LastName": "Dodsley",
+        "Id": "67331852",
+        "Year": "2",
+        "Grade": [
+          60,
+          100,
+          100,
+          95
+        ],
+        "Average": 93.0
+      },
+      {
+        "FirstName": "Gerry",
+        "LastName": "Josskowitz",
+        "Id": "10489425",
+        "Year": "4",
+        "Grade": [
+          100,
+          100,
+          99,
+          82
+        ],
+        "Average": 89.0
+      },
+      {
+        "FirstName": "Gigi",
+        "LastName": "Corteis",
+        "Id": "58807698",
+        "Year": "4",
+        "Grade": [
+          97,
+          100,
+          100,
+          100
+        ],
+        "Average": 99.7
+      },
+      {
+        "FirstName": "Giordano",
+        "LastName": "Commuzzo",
+        "Id": "13148390",
+        "Year": "2",
+        "Grade": [
+          83,
+          100,
+          100,
+          100
+        ],
+        "Average": 98.3
+      },
+      {
+        "FirstName": "Gwenni",
+        "LastName": "Saddler",
+        "Id": "6306939",
+        "Year": "4",
+        "Grade": [
+          87,
+          99,
+          100,
+          71
+        ],
+        "Average": 81.2
+      },
+      {
+        "FirstName": "Hedwiga",
+        "LastName": "Hallewell",
+        "Id": "58723852",
+        "Year": "2",
+        "Grade": [
+          96,
+          100,
+          100,
+          75
+        ],
+        "Average": 84.6
+      },
+      {
+        "FirstName": "Hubey",
+        "LastName": "Cornbill",
+        "Id": "77902645",
+        "Year": "4",
+        "Grade": [
+          100,
+          100,
+          100,
+          67
+        ],
+        "Average": 80.19999999999999
+      },
+      {
+        "FirstName": "Inez",
+        "LastName": "Gernier",
+        "Id": "97218954",
+        "Year": "1",
+        "Grade": [
+          69,
+          94,
+          98,
+          81
+        ],
+        "Average": 84.5
+      },
+      {
+        "FirstName": "Ivar",
+        "LastName": "Kennard",
+        "Id": "77414947",
+        "Year": "4",
+        "Grade": [
+          67,
+          96,
+          100,
+          86
+        ],
+        "Average": 87.9
+      },
+      {
+        "FirstName": "Janeen",
+        "LastName": "Ochterlonie",
+        "Id": "74762624",
+        "Year": "4",
+        "Grade": [
+          100,
+          98,
+          97,
+          99
+        ],
+        "Average": 98.6
+      },
+      {
+        "FirstName": "Jenica",
+        "LastName": "MacSorley",
+        "Id": "98505606",
+        "Year": "4",
+        "Grade": [
+          76,
+          97,
+          100,
+          69
+        ],
+        "Average": 78.69999999999999
+      },
+      {
+        "FirstName": "Jermaine",
+        "LastName": "Ellicock",
+        "Id": "78153773",
+        "Year": "1",
+        "Grade": [
+          72,
+          95,
+          100,
+          73
+        ],
+        "Average": 80.5
+      },
+      {
+        "FirstName": "Joe",
+        "LastName": "Elam",
+        "Id": "25133243",
+        "Year": "1",
+        "Grade": [
+          98,
+          100,
+          96,
+          82
+        ],
+        "Average": 88.19999999999999
+      },
+      {
+        "FirstName": "Karil",
+        "LastName": "Climo",
+        "Id": "58158559",
+        "Year": "2",
+        "Grade": [
+          64,
+          95,
+          98,
+          100
+        ],
+        "Average": 95.5
+      },
+      {
+        "FirstName": "Kerk",
+        "LastName": "Khalid",
+        "Id": "95373572",
+        "Year": "1",
+        "Grade": [
+          72,
+          100,
+          100,
+          100
+        ],
+        "Average": 97.2
+      },
+      {
+        "FirstName": "Lanie",
+        "LastName": "Chisholm",
+        "Id": "97088137",
+        "Year": "1",
+        "Grade": [
+          94,
+          100,
+          100,
+          97
+        ],
+        "Average": 97.6
+      },
+      {
+        "FirstName": "Leesa",
+        "LastName": "Hawkett",
+        "Id": "65453950",
+        "Year": "3",
+        "Grade": [
+          80,
+          97,
+          100,
+          79
+        ],
+        "Average": 85.1
+      },
+      {
+        "FirstName": "Linc",
+        "LastName": "Marner",
+        "Id": "43273122",
+        "Year": "4",
+        "Grade": [
+          90,
+          99,
+          100,
+          71
+        ],
+        "Average": 81.5
+      },
+      {
+        "FirstName": "Linoel",
+        "LastName": "Accombe",
+        "Id": "48241010",
+        "Year": "4",
+        "Grade": [
+          68,
+          100,
+          100,
+          100
+        ],
+        "Average": 96.8
+      },
+      {
+        "FirstName": "Lucy",
+        "LastName": "Snugg",
+        "Id": "70073241",
+        "Year": "4",
+        "Grade": [
+          80,
+          100,
+          100,
+          100
+        ],
+        "Average": 98.0
+      },
+      {
+        "FirstName": "Maggie",
+        "LastName": "Steggals",
+        "Id": "37111990",
+        "Year": "2",
+        "Grade": [
+          95,
+          100,
+          100,
+          100
+        ],
+        "Average": 99.5
+      },
+      {
+        "FirstName": "Mano",
+        "LastName": "Brewitt",
+        "Id": "2817202",
+        "Year": "3",
+        "Grade": [
+          74,
+          100,
+          100,
+          100
+        ],
+        "Average": 97.4
+      },
+      {
+        "FirstName": "Marv",
+        "LastName": "Attril",
+        "Id": "2599383",
+        "Year": "1",
+        "Grade": [
+          75,
+          100,
+          100,
+          67
+        ],
+        "Average": 77.69999999999999
+      },
+      {
+        "FirstName": "Matty",
+        "LastName": "Roxbrough",
+        "Id": "40009805",
+        "Year": "2",
+        "Grade": [
+          99,
+          100,
+          100,
+          100
+        ],
+        "Average": 99.9
+      },
+      {
+        "FirstName": "Maurise",
+        "LastName": "McWhinnie",
+        "Id": "25050522",
+        "Year": "2",
+        "Grade": [
+          84,
+          100,
+          97,
+          79
+        ],
+        "Average": 85.19999999999999
+      },
+      {
+        "FirstName": "Mervin",
+        "LastName": "Abela",
+        "Id": "21353983",
+        "Year": "3",
+        "Grade": [
+          72,
+          100,
+          100,
+          100
+        ],
+        "Average": 97.2
+      },
+      {
+        "FirstName": "Michal",
+        "LastName": "Lyddiatt",
+        "Id": "18403731",
+        "Year": "1",
+        "Grade": [
+          87,
+          100,
+          96,
+          95
+        ],
+        "Average": 94.9
+      },
+      {
+        "FirstName": "Michele",
+        "LastName": "Braysher",
+        "Id": "23041133",
+        "Year": "2",
+        "Grade": [
+          62,
+          100,
+          100,
+          98
+        ],
+        "Average": 95.0
+      },
+      {
+        "FirstName": "Naoma",
+        "LastName": "Headey",
+        "Id": "86036503",
+        "Year": "3",
+        "Grade": [
+          67,
+          92,
+          100,
+          75
+        ],
+        "Average": 80.9
+      },
+      {
+        "FirstName": "Neils",
+        "LastName": "Curm",
+        "Id": "17517866",
+        "Year": "3",
+        "Grade": [
+          92,
+          93,
+          97,
+          100
+        ],
+        "Average": 97.9
+      },
+      {
+        "FirstName": "Nikki",
+        "LastName": "Villaret",
+        "Id": "62952436",
+        "Year": "1",
+        "Grade": [
+          67,
+          100,
+          100,
+          100
+        ],
+        "Average": 96.7
+      },
+      {
+        "FirstName": "Odele",
+        "LastName": "Ellit",
+        "Id": "43700259",
+        "Year": "3",
+        "Grade": [
+          92,
+          99,
+          100,
+          100
+        ],
+        "Average": 99.1
+      },
+      {
+        "FirstName": "Oli",
+        "LastName": "Brisbane",
+        "Id": "58344310",
+        "Year": "4",
+        "Grade": [
+          81,
+          100,
+          100,
+          100
+        ],
+        "Average": 98.1
+      },
+      {
+        "FirstName": "Omer",
+        "LastName": "Whimpenny",
+        "Id": "78354265",
+        "Year": "1",
+        "Grade": [
+          84,
+          94,
+          100,
+          86
+        ],
+        "Average": 89.4
+      },
+      {
+        "FirstName": "Orel",
+        "LastName": "Fante",
+        "Id": "18435591",
+        "Year": "1",
+        "Grade": [
+          91,
+          100,
+          100,
+          100
+        ],
+        "Average": 99.1
+      },
+      {
+        "FirstName": "Peter",
+        "LastName": "Craxford",
+        "Id": "40070129",
+        "Year": "1",
+        "Grade": [
+          80,
+          100,
+          100,
+          77
+        ],
+        "Average": 84.19999999999999
+      },
+      {
+        "FirstName": "Rahel",
+        "LastName": "Rodolf",
+        "Id": "97008396",
+        "Year": "4",
+        "Grade": [
+          92,
+          92,
+          100,
+          100
+        ],
+        "Average": 98.4
+      },
+      {
+        "FirstName": "Reuven",
+        "LastName": "Emblow",
+        "Id": "37565403",
+        "Year": "3",
+        "Grade": [
+          68,
+          93,
+          99,
+          92
+        ],
+        "Average": 91.1
+      },
+      {
+        "FirstName": "Roma",
+        "LastName": "Siege",
+        "Id": "56972767",
+        "Year": "2",
+        "Grade": [
+          76,
+          96,
+          100,
+          87
+        ],
+        "Average": 89.4
+      },
+      {
+        "FirstName": "Salome",
+        "LastName": "Poundsford",
+        "Id": "58138632",
+        "Year": "2",
+        "Grade": [
+          87,
+          100,
+          100,
+          74
+        ],
+        "Average": 83.1
+      },
+      {
+        "FirstName": "Sergeant",
+        "LastName": "Speechly",
+        "Id": "87443066",
+        "Year": "4",
+        "Grade": [
+          96,
+          100,
+          100,
+          100
+        ],
+        "Average": 99.6
+      },
+      {
+        "FirstName": "Shay",
+        "LastName": "Sturdey",
+        "Id": "91544327",
+        "Year": "1",
+        "Grade": [
+          81,
+          100,
+          100,
+          100
+        ],
+        "Average": 98.1
+      },
+      {
+        "FirstName": "Sherri",
+        "LastName": "Hawsby",
+        "Id": "44780060",
+        "Year": "4",
+        "Grade": [
+          95,
+          94,
+          100,
+          100
+        ],
+        "Average": 98.9
+      },
+      {
+        "FirstName": "Stanford",
+        "LastName": "Fealty",
+        "Id": "21739871",
+        "Year": "3",
+        "Grade": [
+          98,
+          92,
+          100,
+          78
+        ],
+        "Average": 85.8
+      },
+      {
+        "FirstName": "Uriel",
+        "LastName": "Spinige",
+        "Id": "65856107",
+        "Year": "3",
+        "Grade": [
+          81,
+          100,
+          100,
+          79
+        ],
+        "Average": 85.5
+      },
+      {
+        "FirstName": "Yelena",
+        "LastName": "Piggrem",
+        "Id": "55920335",
+        "Year": "1",
+        "Grade": [
+          99,
+          100,
+          97,
+          99
+        ],
+        "Average": 98.69999999999999
+      },
+      {
+        "FirstName": "Zoe",
+        "LastName": "Persse",
+        "Id": "72401059",
+        "Year": "4",
+        "Grade": [
+          75,
+          92,
+          100,
+          91
+        ],
+        "Average": 91.30000000000001
+      }
+    ],
+    "TasksList": [
+      "OOP ",
+      "Files ",
+      "API ",
+      "Exam A "
+    ],
+    "PercentList": [
+      10,
+      10,
+      20,
+      60
+    ]
+  }
+}
