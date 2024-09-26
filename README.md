@@ -36,7 +36,7 @@ After installation, you can start the application through Visual Studio or by ru
 
   
 <p align="center">
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/23RhywYr/image.png' border='0' alt='image' width="600"/></a>
-  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/pdfWMJGK/image.png' border='0' alt='image' width="600"/></a>
+<a href='https://postimages.org/' target='_blank'><img src='StudentGrage/Images/Image1.png' border='0' alt='image' width="600"/></a>
+  <a href='https://postimages.org/' target='_blank'><img src='StudentGrage/Images/Image2.png' border='0' alt='image' width="600"/></a>
 </p>
 
